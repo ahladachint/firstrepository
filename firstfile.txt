@@ -1,1 +1,2 @@
-this is just a simple text file
+this is just a simple text
+add
